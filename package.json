@@ -1,0 +1,17 @@
+{
+  "name": "zad148",
+  "version": "1.0.0",
+  "description": "gif-search",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "http-server": "^0.11.1"
+  }
+}
